@@ -14,9 +14,9 @@ export default function Home() {
         );
     }
 
-    // Ensure quantity is between 1 and 10 (adjust max as needed)
+    // Ensure quantity is between 1 and 10000 (adjust max as needed)
     const handleQuantityChange = (e) => {
-        const value = Math.max(1, Math.min(10, parseInt(e.target.value) || 1));
+        const value = Math.max(1, Math.min(10000, parseInt(e.target.value) || 1));
         setQuantity(value);
     };
 
