@@ -1,0 +1,88 @@
+{
+  "name": "CJ Art Of Trading Membership Token",
+  "description": "Empowering Traders. Rewarding Commitment.\n\nThe CJ Art Of Trading Membership Token is a utility-based digital asset that grants members exclusive access to a wealth of trading knowledge, tools, and educational resources. Members receive tokens that can be redeemed for trading courses, strategy sessions, mentorships, and other learning opportunities designed to enhance their financial literacy and market mastery.\n\nBuilt on the foundation of CJ Art of Trading’s mission, this token represents more than access — it symbolizes commitment to personal growth and financial independence through disciplined, informed trading.",
+  "metadataVersion": "1.0.0",
+  "metadataIntegrity": {
+    "hash": "7b8e9f7f8a0e1f7f6c8e9a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2",
+    "note": "Metadata uploaded to IPFS at Cid ipfs://bafkreifbbjbeyu65w4sa6uc25pacdrvl6dkqumv5plqk4cmaac4xj3z67e and hash verified"
+  },
+  "background_color": "000000",
+  "symbol": "CJAOT",
+  "license": {
+    "type": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "external_url": "https://cjartoftrading.com",
+  "frontendImplementation": {
+    "component": "ClaimButton",
+    "purpose": "Facilitates claiming the CJ Art Of Trading Membership Token (tokenId: 0) from the Edition Drop contract on Polygon using the React SDK.",
+    "url": "https://CJ-Art-Of-Trading-Membershp.vercel.app",
+    "instructions": "Link your approved crypto wallet to the Polygon network and use the Claim Button on a CJ Art Of Trading Membership-approved site to complete KYC verification, securing your exclusive token effortlessly."
+  },
+  "image": "ipfs://bafybeihdtiwejud7j4cm7xfqfgol5m4ktoavt5hrnitlfrr5uw2zbbgc5e",
+  "creator": {
+    "name": "CJ Art Of Trading Membership Token",
+    "website": "https://cjartoftrading.com",
+    "Token address": "0x2DBa8aDeB7e6C683D5AED5016c07751958838979"
+  },
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Level",
+      "value": "10"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Polygon"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "ERC-1155"
+    },
+    {
+      "trait_type": "Access",
+      "value": "Trading Courses"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "Redeemable Token"
+    },
+    {
+      "trait_type": "Focus",
+      "value": "Financial Education"
+    },
+    {
+      "trait_type": "Mission",
+      "value": "Empowering Traders"
+    },
+    {
+      "trait_type": "Issue Date",
+      "value": "2025-05-21"
+    }
+  ],
+  "royalties": {
+    "recipient": "0xAb6a26642a823CA6BBB77B16e6009014D2351952",
+    "percentage": 5
+  },
+  "tokenId": 0,
+  "supply": {
+    "type": "Limited",
+    "maxSupply": 5000000
+  },
+  "properties": {
+    "token_type": "semi-fungible",
+    "mint_price": "5 POL"
+  },
+  "collection": {
+    "name": "CJ Art Of Trading Membership Token",
+    "contractAddress": "0x2DBa8aDeB7e6C683D5AED5016c07751958838979",
+    "family": "CJ Art Of Trading"
+  }
+}
